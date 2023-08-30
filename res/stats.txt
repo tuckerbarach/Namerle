@@ -1,0 +1,7 @@
+Statistics:
+Games Lost,19
+Current Streak,40
+Max Streak,40
+Dark Theme,0
+Easy Hints,0
+Enter Anything,0
